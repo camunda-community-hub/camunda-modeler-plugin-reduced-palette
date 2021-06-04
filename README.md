@@ -1,7 +1,14 @@
-# Welcome to the Camunda Community Hub Repository Template!
+# Camunda Modeler - Reduce Palette
 
-## A project to empower our open source community extension maintainers, and encourage new contributors to get started contributing to the Camunda open source ecosystem.
+*Do you need a custom BPMN Symbol palette?*
 
-If you are building a new Camunda Community extension, please follow the instructions detailed in our [Community Repository](https://github.com/camunda-community-hub/community). Once those steps have been completed, please feel free to make use of this repository to build your new extension from!
+Then this is the right plugin for you. By default we removed the pool, data objects and the complex gateway from the modeler, but you can extend the plugin and remove more symbols that you don't need.
 
+## Example
 
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+
+Put this directory into the `plugins` directory of the Camunda Modeler and you're ready to go.
+
+If you're interested in how to create your own plugins see the [documentation](https://github.com/camunda/camunda-modeler/tree/547-plugins/docs/plugins) and this [example](https://github.com/camunda/camunda-modeler-plugin-example).
