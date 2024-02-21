@@ -28,6 +28,6 @@
     "browserify": "^14.1.0",
     "camunda-modeler-plugin-helpers": "^1.7.0",
     "inherits": "^2.0.3",
-    "lodash": "^3.10.1"
+    "lodash": "^4.17.21"
   }
 }
